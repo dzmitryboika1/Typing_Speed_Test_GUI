@@ -21,7 +21,7 @@ class TypingSpeedTest(tk.Tk):
         self.last_result_text = None
         self.best_result_text = None
         self.timer_canvas = None
-        self.short_session = 0.3
+        self.short_session = 1
         self.normal_session = 2
         self.long_session = 3
         self.reset_btn = None
